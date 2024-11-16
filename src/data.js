@@ -1,48 +1,73 @@
+// projects.js
 export const projects = [
-    {
-      title: "Resident Evil 4 Remake",
-      subtitle: "PS5",
-      description:
-        "Resident Evil 4 is a 2023 survival horror game developed and published by Capcom. A remake of the 2005 game Resident Evil 4, players control the US agent Leon S. Kennedy, who must save Ashley Graham, the daughter of the United States president, from the mysterious Los Illuminados cult.",
-      image: "./project-1.gif",
-      link: "https://www.playstation.com/en-ph/games/resident-evil-4-remake/",
-    },
-    {
-      title: "The Last of Us",
-      subtitle: "PS3",
-      description:
-        "The Last of Us is a 2013 action-adventure game developed by Naughty Dog and published by Sony Computer Entertainment. Players control Joel, a smuggler tasked with escorting a teenage girl, Ellie, across a post-apocalyptic United States. The Last of Us is played from a third-person perspective.",
-      image: "./project-2.gif",
-      link: "https://www.amazon.com/Last-Us-PlayStation-3-sony-playstation3/dp/B007CM0K86",
-    },
-    {
-      title: "Fears To Fanthom Franchise",
-      subtitle: "Steam",
-      description:
-        "Fears to Fathom is a series of psychological horror anthology games developed and published by indie video game developer Rayll. The series debuted on July 2, 2021. The series has five games in the first season.",
-      image: "./project-3.gif",
-      link: "https://store.steampowered.com/franchise/f2f",
-    },
-    {
-      title: "Fallout 4",
-      subtitle: "Ps4",
-      description:
-        "Fallout 4 is a 2015 action role-playing game developed by Bethesda Game Studios and published by Bethesda Softworks. It is the fourth main game in the Fallout series and was released worldwide on November 10, 2015, for PlayStation 4, Windows, and Xbox One.",
-      image: "./project-4.gif",
-      link: "https://store.steampowered.com/app/377160/Fallout_4/",
-    },
-  ];
+  {
+    title: "Personal Portfolio Website",
+    subtitle: "HTML, CSS, JavaScript",
+    description:
+      "Created a personal portfolio website to showcase your skills and projects. Used HTML for structure, CSS for styling, and JavaScript for interactivity.",
+    image: "./project-portfolio.gif",
+    link: "https://github.com/your-username/portfolio-website",
+  },
+  {
+    title: "To-Do List App",
+    subtitle: "HTML, CSS, JavaScript",
+    description:
+      "Built a simple to-do list app that allows users to add, edit, and delete tasks. This project demonstrates basic DOM manipulation and event handling.",
+    image: "./project-todolist.gif",
+    link: "https://github.com/your-username/todolist-app",
+  },
+  {
+    title: "Calculator App",
+    subtitle: "HTML, CSS, JavaScript",
+    description:
+      "Developed a basic calculator app that performs basic arithmetic operations. It demonstrates the use of JavaScript functions and event listeners.",
+    image: "./project-calculator.gif",
+    link: "https://github.com/your-username/calculator-app",
+  },
+  {
+    title: "Weather App",
+    subtitle: "HTML, CSS, JavaScript, API",
+    description:
+      "Built a weather app that fetches data from a weather API to display the current weather based on the user's location or a search. Focuses on working with APIs.",
+    image: "./project-weather.gif",
+    link: "https://github.com/your-username/weather-app",
+  },
+  {
+    title: "Landing Page",
+    subtitle: "HTML, CSS",
+    description:
+      "Designed a responsive landing page with sections like 'About', 'Services', and 'Contact'. Focused on building a clean, simple layout using CSS Flexbox and Grid.",
+    image: "./project-landingpage.gif",
+    link: "https://github.com/your-username/landing-page",
+  },
+  {
+    title: "Image Slider",
+    subtitle: "HTML, CSS, JavaScript",
+    description:
+      "Created a simple image slider that allows users to navigate through images. This project demonstrates handling arrays and implementing user interactivity.",
+    image: "./project-slider.gif",
+    link: "https://github.com/your-username/image-slider",
+  },
+  {
+    title: "Quotes Generator",
+    subtitle: "HTML, CSS, JavaScript, API",
+    description:
+      "Developed an app that fetches and displays random inspirational quotes from an API. This project helps to understand the use of external APIs and dynamic data handling.",
+    image: "./project-quotes.gif",
+    link: "https://github.com/your-username/quotes-generator",
+  },
+];
 
 
+// skills.js
 export const skills = [
-  "Reflex",
-  "6th Senses",
-  "Calm",
-  "Silent",
-  "Epic Gamer",
-  "Hacker",
-  "Sleep",
-  "Sleeper Build",
-  "Collaborative",
-  "Clout"
+  "Team Collaboration",
+  "Adaptability",
+  "Stress Management",
+  "Technical Troubleshooting",
+  "Time Management",
+  "Communication",
+  "Project Management",
+  "Self-Learning",
+  "Attention to Detail",
 ];

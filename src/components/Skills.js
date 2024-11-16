@@ -9,10 +9,10 @@ export default function Skills() {
         <div className="text-center mb-20">
           <ChipIcon className="w-10 inline-block mb-4" />
           <h1 className="sm:text-4xl text-3xl font-medium title-font text-white mb-4">
-            Gaming &amp; Skills
+            Technical Skills
           </h1>
           <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
-            Here are the lists of my gaming skills
+            Here are some of the technical skills I have developed during my studies and projects.
           </p>
         </div>
         <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">
