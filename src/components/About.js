@@ -27,9 +27,10 @@ export default function About() {
         </div>
         <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
           <img
-            className="object-cover object-center rounded"
+            className="object-cover object-center rounded-lg border-4 border-gray-500"
+            style={{ width: "250px", height: "250px" }} // Increased size to 250px for a larger image
             alt="developer"
-            src="./coding.svg"
+            src="https://i.postimg.cc/W3gQGJRd/grantpic.jpg"
           />
         </div>
       </div>
